@@ -1,0 +1,11 @@
+build/
+*.uf2
+*.elf
+*.bin
+*.map
+*.dis
+*.log
+*.o
+*.obj
+CMakeFiles/
+CMakeCache.txt
